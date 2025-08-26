@@ -1,5 +1,5 @@
 # -Diabetes-Prediction-using-Machine-Learning
-his project uses PIMA Indian Diabetes Dataset to predict whether a person has diabetes based on diagnostic features such as glucose level, BMI, and age using different classification models.
+This project uses PIMA Indian Diabetes Dataset to predict whether a person has diabetes based on diagnostic features such as glucose level, BMI, and age using different classification models.
 
 📌 Project Objectives
 Clean and preprocess raw medical data
